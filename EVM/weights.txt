@@ -1,0 +1,5 @@
+ABINITIO_PREDICTION     GeneMark.hmm    1
+ABINITIO_PREDICTION     Augustus        1
+PROTEIN exonerate       1
+OTHER_PREDICTION        HiQ     5
+TRANSCRIPT      pasa    10
